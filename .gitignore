@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/
+*.iml
+*.iws
+out/
+target/
